@@ -1,0 +1,7 @@
+C:\Users\heyma\OneDrive\Desktop\ProductRev\ProductRev\bin\Debug\ProductRev.exe.config
+C:\Users\heyma\OneDrive\Desktop\ProductRev\ProductRev\bin\Debug\ProductRev.exe
+C:\Users\heyma\OneDrive\Desktop\ProductRev\ProductRev\bin\Debug\ProductRev.pdb
+C:\Users\heyma\OneDrive\Desktop\ProductRev\ProductRev\obj\Debug\Payroll.csprojAssemblyReference.cache
+C:\Users\heyma\OneDrive\Desktop\ProductRev\ProductRev\obj\Debug\Payroll.csproj.CoreCompileInputs.cache
+C:\Users\heyma\OneDrive\Desktop\ProductRev\ProductRev\obj\Debug\ProductRev.exe
+C:\Users\heyma\OneDrive\Desktop\ProductRev\ProductRev\obj\Debug\ProductRev.pdb
