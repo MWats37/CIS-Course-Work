@@ -1,0 +1,10 @@
+C:\Users\heyma\OneDrive\Desktop\CIS 199 Work\Program1\Program1\bin\Debug\Program1.exe.config
+C:\Users\heyma\OneDrive\Desktop\CIS 199 Work\Program1\Program1\bin\Debug\Program1.exe
+C:\Users\heyma\OneDrive\Desktop\CIS 199 Work\Program1\Program1\bin\Debug\Program1.pdb
+C:\Users\heyma\OneDrive\Desktop\CIS 199 Work\Program1\Program1\obj\Debug\Program1.csprojAssemblyReference.cache
+C:\Users\heyma\OneDrive\Desktop\CIS 199 Work\Program1\Program1\obj\Debug\Program1.ProgramOne.resources
+C:\Users\heyma\OneDrive\Desktop\CIS 199 Work\Program1\Program1\obj\Debug\Program1.Properties.Resources.resources
+C:\Users\heyma\OneDrive\Desktop\CIS 199 Work\Program1\Program1\obj\Debug\Program1.csproj.GenerateResource.cache
+C:\Users\heyma\OneDrive\Desktop\CIS 199 Work\Program1\Program1\obj\Debug\Program1.csproj.CoreCompileInputs.cache
+C:\Users\heyma\OneDrive\Desktop\CIS 199 Work\Program1\Program1\obj\Debug\Program1.exe
+C:\Users\heyma\OneDrive\Desktop\CIS 199 Work\Program1\Program1\obj\Debug\Program1.pdb
