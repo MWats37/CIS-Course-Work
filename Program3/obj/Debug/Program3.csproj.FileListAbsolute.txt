@@ -1,0 +1,10 @@
+C:\Users\heyma\OneDrive\Desktop\CIS 199 Work\Program3\Program3\bin\Debug\Program3.exe.config
+C:\Users\heyma\OneDrive\Desktop\CIS 199 Work\Program3\Program3\bin\Debug\Program3.exe
+C:\Users\heyma\OneDrive\Desktop\CIS 199 Work\Program3\Program3\bin\Debug\Program3.pdb
+C:\Users\heyma\OneDrive\Desktop\CIS 199 Work\Program3\Program3\obj\Debug\Program3.csprojAssemblyReference.cache
+C:\Users\heyma\OneDrive\Desktop\CIS 199 Work\Program3\Program3\obj\Debug\Program3.uThankItWeMakeItForm.resources
+C:\Users\heyma\OneDrive\Desktop\CIS 199 Work\Program3\Program3\obj\Debug\Program3.Properties.Resources.resources
+C:\Users\heyma\OneDrive\Desktop\CIS 199 Work\Program3\Program3\obj\Debug\Program3.csproj.GenerateResource.cache
+C:\Users\heyma\OneDrive\Desktop\CIS 199 Work\Program3\Program3\obj\Debug\Program3.csproj.CoreCompileInputs.cache
+C:\Users\heyma\OneDrive\Desktop\CIS 199 Work\Program3\Program3\obj\Debug\Program3.exe
+C:\Users\heyma\OneDrive\Desktop\CIS 199 Work\Program3\Program3\obj\Debug\Program3.pdb
